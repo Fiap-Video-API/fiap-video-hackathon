@@ -30,7 +30,7 @@ Para o serviço de processamento de vídeos, escolhemos utilizar o Java com o fr
 
 |![Análise do código via SonarQube](SonarQube.jpeg)|
 |:-:|
-| *Imagem 5. Cobertura de testes do serviço de processamento.* |
+| *Imagem 5. Análise do código do serviço de processamento.* |
 
 ## fiap-video-api
 
